@@ -11,3 +11,5 @@ Train the SVR model with the svm() function from the e1071 package
 Visualize the model predictions against actual data
 
 Make predictions on new data points
+![Image](https://github.com/user-attachments/assets/087909e9-08cb-487b-82cc-451f6d0c5499)
+![Image](https://github.com/user-attachments/assets/89dc1678-bbfc-4763-bf47-224abd099072)
